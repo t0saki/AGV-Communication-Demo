@@ -1,0 +1,10 @@
+﻿  pch.cpp
+  MFCComm.cpp
+  MFCCommDlg.cpp
+C:\Users\wzx14\source\repos\MFCComm\chatserver.h(24,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\wzx14\source\repos\MFCComm\chatserver.h(59,37): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  正在生成代码
+  Previous IPDB not found, fall back to full compilation.
+  All 273 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  已完成代码的生成
+  MFCComm.vcxproj -> C:\Users\wzx14\source\repos\MFCComm\Release\MFCComm.exe
